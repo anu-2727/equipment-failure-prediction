@@ -157,3 +157,22 @@ cd equipment-failure-prediction
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## ▶️ Usage
+
+After installing the required dependencies, run the Streamlit application using the following command:
+
+```bash
+streamlit run app.py
+```
+
+Once the application starts, open the URL displayed in your terminal (usually http://localhost:8501) in your web browser.
+
+### Using the Application
+
+1. Enter the required equipment parameters.
+2. Click the **Predict** button.
+3. View the prediction result.
+4. Analyze the SHAP explainability output for feature importance.
