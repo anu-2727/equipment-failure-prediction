@@ -58,3 +58,20 @@ equipment-failure-prediction/
 | Visualization | Matplotlib |
 | Model Serialization | Joblib |
 | Version Control | Git & GitHub |
+
+---
+
+## 🔄 Machine Learning Pipeline
+
+1. Data Collection
+2. Data Cleaning & Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Handling Class Imbalance using SMOTE
+6. Train-Test Split
+7. Model Training using XGBoost
+8. Threshold Tuning
+9. Model Evaluation
+10. SHAP Explainability
+11. Model Serialization using Joblib
+12. Streamlit Deployment
