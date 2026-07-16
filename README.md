@@ -13,3 +13,33 @@ An end-to-end Machine Learning project that predicts equipment failures using XG
 - Real-time prediction with user inputs.
 - Clean and modular project structure.
 - Easy deployment and reproducibility.
+
+---
+
+## 📂 Project Structure
+
+```text
+equipment-failure-prediction/
+│
+├── app/
+│   └── app.py
+│
+├── models/
+│   ├── xgboost_model.pkl
+│   ├── best_threshold.pkl
+│   └── feature_columns.pkl
+│
+├── notebooks/
+│   └── 01_data_understanding.ipynb
+│
+├── reports/
+│   ├── figures/
+│   └── model_results.csv
+│
+├── src/
+│   └── predict.py
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
