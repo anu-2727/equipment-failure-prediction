@@ -91,3 +91,19 @@ The dataset contains operational and sensor-related information collected from i
 - Tool Wear
 - Machine Type
 - Failure Type
+
+---
+
+## 📊 Model Performance
+
+The XGBoost model achieved strong predictive performance on the equipment failure dataset.
+
+### Evaluation Metrics
+
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC Score
+
+The model was further optimized using threshold tuning to improve failure detection while maintaining a good balance between precision and recall.
