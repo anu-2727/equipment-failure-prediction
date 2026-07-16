@@ -75,3 +75,19 @@ equipment-failure-prediction/
 10. SHAP Explainability
 11. Model Serialization using Joblib
 12. Streamlit Deployment
+
+---
+
+## 📂 Dataset Description
+
+The dataset contains operational and sensor-related information collected from industrial equipment. It is used to predict whether a machine is likely to fail based on its operating conditions.
+
+### Dataset Features
+
+- Air Temperature
+- Process Temperature
+- Rotational Speed (RPM)
+- Torque
+- Tool Wear
+- Machine Type
+- Failure Type
