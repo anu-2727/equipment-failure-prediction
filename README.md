@@ -107,3 +107,17 @@ The XGBoost model achieved strong predictive performance on the equipment failur
 - ROC-AUC Score
 
 The model was further optimized using threshold tuning to improve failure detection while maintaining a good balance between precision and recall.
+
+---
+
+## 🔍 SHAP Explainability
+
+To improve model transparency and interpretability, SHAP (SHapley Additive exPlanations) was used.
+
+### SHAP helps to:
+
+- Explain individual predictions.
+- Identify the most important features.
+- Understand feature contributions.
+- Increase trust in model predictions.
+- Support better decision-making.
