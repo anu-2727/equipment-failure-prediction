@@ -135,3 +135,25 @@ The project includes an interactive Streamlit web application that allows users 
 - Easy input of machine parameters
 - Fast prediction results
 - Interactive and responsive design
+
+---
+
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/anu-2727/equipment-failure-prediction.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd equipment-failure-prediction
+```
+
+### 3. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
