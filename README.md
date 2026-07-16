@@ -43,3 +43,18 @@ equipment-failure-prediction/
 ├── .gitignore
 └── README.md
 ```
+---
+
+## 🛠️ Technologies Used
+
+| Category | Technology |
+|----------|------------|
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-learn, XGBoost |
+| Imbalanced Data Handling | SMOTE |
+| Model Explainability | SHAP |
+| Web Framework | Streamlit |
+| Visualization | Matplotlib |
+| Model Serialization | Joblib |
+| Version Control | Git & GitHub |
