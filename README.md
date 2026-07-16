@@ -121,3 +121,17 @@ To improve model transparency and interpretability, SHAP (SHapley Additive exPla
 - Understand feature contributions.
 - Increase trust in model predictions.
 - Support better decision-making.
+
+---
+
+## 🌐 Streamlit Dashboard
+
+The project includes an interactive Streamlit web application that allows users to predict equipment failures in real time.
+
+### Dashboard Features
+
+- User-friendly interface
+- Real-time equipment failure prediction
+- Easy input of machine parameters
+- Fast prediction results
+- Interactive and responsive design
