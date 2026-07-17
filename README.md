@@ -179,8 +179,6 @@ Once the application starts, open the URL displayed in your terminal (usually ht
 
 ---
 
----
-
 ## 👩‍💻 Author
 
 **Ponanupriya M**
@@ -190,13 +188,17 @@ Once the application starts, open the URL displayed in your terminal (usually ht
 - 💻 GitHub: https://github.com/anu-2727
 - 💼 LinkedIn: www.linkedin.com/in/ponanupriya-m-986221338
 
-  
+---
+
 ## 🚀 Future Improvements
 
-- Deploy the application on Streamlit Community Cloud.
+- Deploy the application using Streamlit Community Cloud.
+- Integrate real-time IoT sensor data.
+- Compare multiple machine learning models.
 - Add user authentication.
-- Support batch predictions using CSV upload.
-- Integrate a real-time monitoring dashboard.
-- Improve model performance using hyperparameter tuning.
+- Develop REST APIs using FastAPI.
 - Containerize the application using Docker.
-- Implement CI/CD using GitHub Actions.
+- Improve dashboard visualizations.
+- Add CI/CD using GitHub Actions.
+
+  
