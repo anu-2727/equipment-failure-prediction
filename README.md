@@ -179,6 +179,18 @@ Once the application starts, open the URL displayed in your terminal (usually ht
 
 ---
 
+---
+
+## 👩‍💻 Author
+
+**Ponanupriya M**
+
+- 🎓 B.Tech – Artificial Intelligence and Data Science
+- 🏫 Ramco Institute of Technology
+- 💻 GitHub: https://github.com/anu-2727
+- 💼 LinkedIn: www.linkedin.com/in/ponanupriya-m-986221338
+
+  
 ## 🚀 Future Improvements
 
 - Deploy the application on Streamlit Community Cloud.
