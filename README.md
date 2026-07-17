@@ -176,3 +176,15 @@ Once the application starts, open the URL displayed in your terminal (usually ht
 2. Click the **Predict** button.
 3. View the prediction result.
 4. Analyze the SHAP explainability output for feature importance.
+
+---
+
+## 🚀 Future Improvements
+
+- Deploy the application on Streamlit Community Cloud.
+- Add user authentication.
+- Support batch predictions using CSV upload.
+- Integrate a real-time monitoring dashboard.
+- Improve model performance using hyperparameter tuning.
+- Containerize the application using Docker.
+- Implement CI/CD using GitHub Actions.
