@@ -201,4 +201,24 @@ Once the application starts, open the URL displayed in your terminal (usually ht
 - Improve dashboard visualizations.
 - Add CI/CD using GitHub Actions.
 
+---
+
+## 🙏 Acknowledgements
+
+This project was developed as an end-to-end Machine Learning portfolio project.
+
+Special thanks to the open-source community and the developers of:
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- SHAP
+- Streamlit
+- Matplotlib
+- Joblib
+
+Dataset:
+- AI4I 2020 Predictive Maintenance Dataset
   
